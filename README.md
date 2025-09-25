@@ -1,5 +1,6 @@
 # Store-Sales-Analysis_Dashboard (Excel)
-##Project Objective
+## Project Objective
+
 This project is a Sales Performance Dashboard for "Snappit," a retail or grocery business. It is designed to monitor and analyze key sales metrics across various outlets, product types, and locations. The primary goal is to provide actionable insights into the company's performance, helping management identify trends, opportunities, and areas for improvement to drive business growth.
 
 ## 📌 Problem Statement
@@ -10,7 +11,7 @@ This Snappit Sales Dashboard solves this problem by centralizing all key sales d
 ## 👉 Dataset
 The dataset used in this project:
 
- - <a href = "https://github.com/khansadiq5/Hospital-Emergency-Room-Dashboard_Excel/blob/main/Dashboard.xlsx"> Snappit Sales Data </a>
+ - <a href = "https://github.com/khansadiq5/Store-Sales-Analysis_Dashboard/blob/main/Store%20Sales%20DataSet.xlsx"> Snappit Sales Data </a>
 
 ## 📌 Key KPIs
  - Total Sales
@@ -47,11 +48,12 @@ The dataset used in this project:
 - Supports data-driven decisions for inventory management, marketing strategies, and business expansion.
 
 ## 👉 Dashboard Link
-- <a href = "https://github.com/khansadiq5/Hospital-Emergency-Room-Dashboard_Excel/blob/main/Dashboard.xlsx"> Click to View Dashboard </a>
+- <a href = "https://github.com/khansadiq5/Store-Sales-Analysis_Dashboard/blob/main/Store%20Sales%20DataSet.xlsx"> Click to View Dashboard </a>
 
 ## 👉 Dashboard Preview
 Below is a snapshot of the dashboard:
-<img width="1812" height="814" alt="Dashboard-image" src="https://i.imgur.com/your-image-url.png" />
+
+<img width="1593" height="882" alt="Dashboard-image" src="https://github.com/user-attachments/assets/e4cb93c1-e9ab-45c8-95e6-5d883cbe1aab" />
 
 
 ## 📌 Tools Used
